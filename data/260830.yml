@@ -1,0 +1,60 @@
+about:
+  description: music library manager and MusicBrainz tagger
+  license: MIT
+  homepage: http://beets.io/
+  head: e7a788f
+  archived: false
+  latestVersion: v2.13.1
+  collectedAt: 2026-08-30T05:20:03Z
+timeline:
+  created: 2010-08-09
+  lastCommit: 2026-08-29
+  lastRelease: 2026-07-29
+popularity:
+  star: 15598
+  watcher: 379
+  fork: 2089
+  release: 53
+  contributor: 601
+  pullRequest: 703
+  issue: 3208
+language:
+  Python: 2818424
+  JavaScript: 86960
+  Shell: 7635
+  HTML: 3833
+  CSS: 2951
+totalLine: 2919803
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 12
+    openPR: 19
+    closedIssue: 3
+    openIssue: 15
+    commit: 48
+  last90d:
+    since: 2026-06-01
+    release: 3
+    mergedPR: 107
+    openPR: 41
+    closedIssue: 23
+    openIssue: 31
+    commit: 559
+  last180d:
+    since: 2026-03-03
+    release: 9
+    mergedPR: 248
+    openPR: 55
+    closedIssue: 71
+    openIssue: 56
+    commit: 1383
+  last360d:
+    since: 2025-09-04
+    release: 15
+    mergedPR: 366
+    openPR: 76
+    closedIssue: 173
+    openIssue: 100
+    commit: 2229
