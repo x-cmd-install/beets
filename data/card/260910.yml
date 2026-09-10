@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.14.0"
   latestRelease: "v2.14.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:21:01Z
+  collectedAt: 2026-09-10T23:28:11Z
 timeline:
   created: 2010-08-09
   lastCommit: 2026-09-08
@@ -87,7 +87,7 @@ total:
   commit: 15332
 ---
 path: /home/runner/.x-repo/github.com/beetbox/beets
-collectedAt: 2026-09-10T20:21:11Z
+collectedAt: 2026-09-10T23:28:18Z
 loc:
   Python:
     code: 68536
