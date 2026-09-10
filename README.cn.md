@@ -4,7 +4,7 @@
 
 music library manager and MusicBrainz tagger
 
-![beets](https://repo.x-cmd.io/beets.svg)
+![beets](https://repo.x-cmd.io/beets.svg?lang=zh)
 
 ## 安装
 
@@ -23,23 +23,29 @@ x install beets
 - **最新版本**: `v2.14.0` (2026-09-07)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 2 个
-- **发布时间**: 2026-09-07T20:25:08Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [beets-2.14.0-py3-none-any.whl](https://github.com/beetbox/beets/releases/download/v2.14.0/beets-2.14.0-py3-none-any.whl) | 635.3 KiB | `other` |
+| [beets-2.14.0.tar.gz](https://github.com/beetbox/beets/releases/download/v2.14.0/beets-2.14.0.tar.gz) | 2.4 MiB | `native/unknown` |
 
 ## 流行度
 
-- **Star**: 15,642 · **Fork**: 2,100 · **开放 issue**: 3,222 · **贡献者**: 605
+- **Star**: 15,645 · **Fork**: 2,101 · **开放 issue**: 3,222 · **贡献者**: 605
 
 ## 累计统计
 
-- **发布数**: 54 · **已合并 PR**: 2088 · **开放 PR**: 76 · **已关闭 issue**: 2587 · **开放 issue**: 635 · **提交数**: 15332
+- **发布数**: 54 · **已合并 PR**: 2088 · **开放 PR**: 78 · **已关闭 issue**: 2587 · **开放 issue**: 635 · **提交数**: 15332
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 24 | 17 | 4 | 20 | 134 |
-| 90d | 2026-06-12 | 4 | 110 | 37 | 24 | 38 | 600 |
-| 360d | 2025-09-15 | 15 | 385 | 68 | 176 | 102 | 2291 |
+| 30d | 2026-08-11 | 1 | 24 | 19 | 4 | 20 | 134 |
+| 90d | 2026-06-12 | 4 | 110 | 39 | 24 | 38 | 600 |
+| 360d | 2025-09-15 | 15 | 385 | 70 | 176 | 102 | 2291 |
 
 ## 代码规模
 
@@ -72,4 +78,4 @@ beets 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:35:01Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:14:11Z._

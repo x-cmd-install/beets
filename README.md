@@ -23,23 +23,29 @@ x install beets
 - **Latest**: `v2.14.0` (2026-09-07)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 2
-- **Published**: 2026-09-07T20:25:08Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [beets-2.14.0-py3-none-any.whl](https://github.com/beetbox/beets/releases/download/v2.14.0/beets-2.14.0-py3-none-any.whl) | 635.3 KiB | `other` |
+| [beets-2.14.0.tar.gz](https://github.com/beetbox/beets/releases/download/v2.14.0/beets-2.14.0.tar.gz) | 2.4 MiB | `native/unknown` |
 
 ## Popularity
 
-- **Stars**: 15,642 · **Forks**: 2,100 · **Open issues**: 3,222 · **Contributors**: 605
+- **Stars**: 15,645 · **Forks**: 2,101 · **Open issues**: 3,222 · **Contributors**: 605
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 2088 · **Open PRs**: 76 · **Closed issues**: 2587 · **Open issues**: 635 · **Commits**: 15332
+- **Releases**: 54 · **Merged PRs**: 2088 · **Open PRs**: 78 · **Closed issues**: 2587 · **Open issues**: 635 · **Commits**: 15332
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 24 | 17 | 4 | 20 | 134 |
-| 90d | 2026-06-12 | 4 | 110 | 37 | 24 | 38 | 600 |
-| 360d | 2025-09-15 | 15 | 385 | 68 | 176 | 102 | 2291 |
+| 30d | 2026-08-11 | 1 | 24 | 19 | 4 | 20 | 134 |
+| 90d | 2026-06-12 | 4 | 110 | 39 | 24 | 38 | 600 |
+| 360d | 2025-09-15 | 15 | 385 | 70 | 176 | 102 | 2291 |
 
 ## Code size
 
@@ -68,8 +74,8 @@ Lowest-scoring checks:
 Install metadata for beets lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `beets` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/beets.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/beets.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:35:00Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:14:10Z._
