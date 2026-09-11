@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 650498,
       "digest": "sha256:270cdce1f0c441dcdb7dc9bc367b51b4a54f055e62662b3f7509aa04838d7f84",
-      "download_count": 23,
+      "download_count": 28,
       "created_at": "2026-09-07T20:25:10Z",
       "updated_at": "2026-09-07T20:25:11Z",
       "browser_download_url": "https://github.com/beetbox/beets/releases/download/v2.14.0/beets-2.14.0-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2481050,
       "digest": "sha256:f412c9072ddc0bed04d843546a4222fcd24c9fe64cf233517ddcdb40190feea8",
-      "download_count": 56,
+      "download_count": 63,
       "created_at": "2026-09-07T20:25:09Z",
       "updated_at": "2026-09-07T20:25:10Z",
       "browser_download_url": "https://github.com/beetbox/beets/releases/download/v2.14.0/beets-2.14.0.tar.gz"
