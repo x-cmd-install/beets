@@ -31,8 +31,8 @@ x install beets
 评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install beets
 
 ## 流行度
 
-- **Star**: 15,663 · **Fork**: 2,109 · **开放 issue**: 3,225 · **贡献者**: 607
+- **Star**: 15,666 · **Fork**: 2,111 · **开放 issue**: 3,227 · **贡献者**: 607
 
 ## 累计统计
 
-- **发布数**: 54 · **已合并 PR**: 2096 · **开放 PR**: 76 · **已关闭 issue**: 2590 · **开放 issue**: 635 · **提交数**: 15360
+- **发布数**: 54 · **已合并 PR**: 2096 · **开放 PR**: 78 · **已关闭 issue**: 2590 · **开放 issue**: 637 · **提交数**: 15360
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 31 | 16 | 6 | 19 | 119 |
-| last60d | 2026-07-17 | 3 | 55 | 25 | 18 | 25 | 281 |
-| 90d | 2026-06-17 | 4 | 107 | 37 | 26 | 35 | 546 |
-| last180d | 2026-03-19 | 8 | 259 | 50 | 75 | 62 | 1392 |
-| 360d | 2025-09-20 | 15 | 387 | 65 | 173 | 100 | 2270 |
-| last720d | 2024-09-25 | 20 | 546 | 74 | 268 | 172 | 3337 |
+| 30d | 2026-08-17 | 1 | 30 | 18 | 6 | 21 | 119 |
+| last60d | 2026-07-18 | 3 | 55 | 27 | 17 | 27 | 281 |
+| 90d | 2026-06-18 | 4 | 107 | 39 | 26 | 36 | 546 |
+| last180d | 2026-03-20 | 8 | 257 | 52 | 74 | 64 | 1392 |
+| 360d | 2025-09-21 | 15 | 387 | 67 | 172 | 102 | 2270 |
+| last720d | 2024-09-26 | 20 | 544 | 76 | 267 | 174 | 3337 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ beets 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T04:50:31Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T04:44:27Z._
