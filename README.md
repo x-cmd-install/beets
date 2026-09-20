@@ -4,7 +4,7 @@
 
 music library manager and MusicBrainz tagger
 
-![beets](https://repo.x-cmd.io/beets.svg)
+[![x-cmd/install — beets Code Quality Monitoring Repo Card](https://repo.x-cmd.io/beets.svg)](https://x-cmd.com/install/beets)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,672 · **Forks**: 2,114 · **Open issues**: 3,231 · **Contributors**: 609
+- **Stars**: 15,678 · **Forks**: 2,116 · **Open issues**: 3,233 · **Contributors**: 609
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2102 · **Open PRs**: 69 · **Closed issues**: 2594 · **Open issues**: 637 · **Commits**: 15383
+- **Releases**: 55 · **Merged PRs**: 2102 · **Open PRs**: 72 · **Closed issues**: 2594 · **Open issues**: 639 · **Commits**: 15383
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 29 | 11 | 10 | 21 | 140 |
-| last60d | 2026-07-20 | 4 | 61 | 20 | 18 | 27 | 302 |
-| 90d | 2026-06-20 | 5 | 108 | 32 | 29 | 36 | 567 |
-| last180d | 2026-03-22 | 9 | 261 | 44 | 76 | 64 | 1413 |
-| 360d | 2025-09-23 | 16 | 390 | 58 | 175 | 102 | 2291 |
-| last720d | 2024-09-28 | 21 | 549 | 67 | 270 | 174 | 3357 |
+| 30d | 2026-08-21 | 2 | 28 | 14 | 10 | 23 | 125 |
+| last60d | 2026-07-22 | 4 | 59 | 23 | 18 | 29 | 255 |
+| 90d | 2026-06-22 | 5 | 106 | 35 | 29 | 37 | 483 |
+| last180d | 2026-03-24 | 9 | 258 | 47 | 76 | 65 | 1369 |
+| 360d | 2025-09-25 | 16 | 390 | 61 | 175 | 104 | 2242 |
+| last720d | 2024-09-30 | 21 | 549 | 70 | 269 | 175 | 3357 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for beets lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:35:15Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:48:51Z._
