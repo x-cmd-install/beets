@@ -4,7 +4,7 @@
 
 music library manager and MusicBrainz tagger
 
-[![x-cmd/install — beets Code Quality Monitoring Repo Card](https://repo.x-cmd.io/beets.svg)](https://x-cmd.com/install/beets)
+[![x-cmd/install — beets Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/beets.svg)](https://x-cmd.com/install/beets)
 
 ## Install
 
@@ -26,13 +26,13 @@ Total: **103,537** lines of code across **447** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.8 / 10**
+Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,687 · **Forks**: 2,121 · **Open issues**: 3,234 · **Contributors**: 610
+- **Stars**: 15,695 · **Forks**: 2,121 · **Open issues**: 3,234 · **Contributors**: 610
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2105 · **Open PRs**: 71 · **Closed issues**: 2596 · **Open issues**: 638 · **Commits**: 15398
+- **Releases**: 55 · **Merged PRs**: 2105 · **Open PRs**: 71 · **Closed issues**: 2597 · **Open issues**: 637 · **Commits**: 15398
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 29 | 12 | 12 | 22 | 137 |
-| last60d | 2026-07-24 | 4 | 59 | 21 | 20 | 28 | 267 |
-| 90d | 2026-06-24 | 4 | 101 | 32 | 31 | 35 | 495 |
-| last180d | 2026-03-26 | 9 | 261 | 46 | 77 | 63 | 1381 |
-| 360d | 2025-09-27 | 16 | 391 | 60 | 176 | 103 | 2254 |
-| last720d | 2024-10-02 | 21 | 552 | 69 | 271 | 174 | 3365 |
+| 30d | 2026-08-24 | 2 | 29 | 14 | 13 | 20 | 137 |
+| last60d | 2026-07-25 | 4 | 58 | 23 | 21 | 27 | 267 |
+| 90d | 2026-06-25 | 4 | 100 | 33 | 32 | 34 | 495 |
+| last180d | 2026-03-27 | 9 | 260 | 48 | 78 | 62 | 1381 |
+| 360d | 2025-09-28 | 16 | 391 | 61 | 176 | 102 | 2254 |
+| last720d | 2024-10-03 | 21 | 551 | 69 | 272 | 173 | 3365 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for beets lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:45:58Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:51:32Z._

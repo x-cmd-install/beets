@@ -4,7 +4,7 @@
 
 music library manager and MusicBrainz tagger
 
-[![x-cmd/install — beets Code Quality Monitoring Repo Card](https://repo.x-cmd.io/beets.svg?lang=zh)](https://x-cmd.com/install/beets)
+[![x-cmd/install — beets Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/beets.svg?lang=zh)](https://x-cmd.com/install/beets)
 
 ## 安装
 
@@ -26,13 +26,13 @@ x install beets
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.8 / 10**
+总评分: **5.5 / 10**
 
 评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install beets
 
 ## 流行度
 
-- **Star**: 15,687 · **Fork**: 2,121 · **开放 issue**: 3,234 · **贡献者**: 610
+- **Star**: 15,695 · **Fork**: 2,121 · **开放 issue**: 3,234 · **贡献者**: 610
 
 ## 累计统计
 
-- **发布数**: 55 · **已合并 PR**: 2105 · **开放 PR**: 71 · **已关闭 issue**: 2596 · **开放 issue**: 638 · **提交数**: 15398
+- **发布数**: 55 · **已合并 PR**: 2105 · **开放 PR**: 71 · **已关闭 issue**: 2597 · **开放 issue**: 637 · **提交数**: 15398
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 29 | 12 | 12 | 22 | 137 |
-| last60d | 2026-07-24 | 4 | 59 | 21 | 20 | 28 | 267 |
-| 90d | 2026-06-24 | 4 | 101 | 32 | 31 | 35 | 495 |
-| last180d | 2026-03-26 | 9 | 261 | 46 | 77 | 63 | 1381 |
-| 360d | 2025-09-27 | 16 | 391 | 60 | 176 | 103 | 2254 |
-| last720d | 2024-10-02 | 21 | 552 | 69 | 271 | 174 | 3365 |
+| 30d | 2026-08-24 | 2 | 29 | 14 | 13 | 20 | 137 |
+| last60d | 2026-07-25 | 4 | 58 | 23 | 21 | 27 | 267 |
+| 90d | 2026-06-25 | 4 | 100 | 33 | 32 | 34 | 495 |
+| last180d | 2026-03-27 | 9 | 260 | 48 | 78 | 62 | 1381 |
+| 360d | 2025-09-28 | 16 | 391 | 61 | 176 | 102 | 2254 |
+| last720d | 2024-10-03 | 21 | 551 | 69 | 272 | 173 | 3365 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ beets 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:45:59Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:51:33Z._
