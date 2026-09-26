@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,705 · **Forks**: 2,123 · **Open issues**: 3,234 · **Contributors**: 612
+- **Stars**: 15,716 · **Forks**: 2,123 · **Open issues**: 3,234 · **Contributors**: 612
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2108 · **Open PRs**: 73 · **Closed issues**: 2598 · **Open issues**: 636 · **Commits**: 15419
+- **Releases**: 55 · **Merged PRs**: 2108 · **Open PRs**: 74 · **Closed issues**: 2598 · **Open issues**: 636 · **Commits**: 15419
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 2 | 28 | 18 | 13 | 20 | 146 |
-| last60d | 2026-07-27 | 4 | 57 | 26 | 20 | 27 | 277 |
-| 90d | 2026-06-27 | 4 | 100 | 35 | 33 | 32 | 505 |
-| last180d | 2026-03-29 | 8 | 259 | 51 | 77 | 61 | 1391 |
-| 360d | 2025-09-30 | 16 | 393 | 63 | 176 | 101 | 2275 |
-| last720d | 2024-10-05 | 21 | 554 | 71 | 273 | 172 | 3386 |
+| 30d | 2026-08-27 | 2 | 26 | 19 | 11 | 19 | 146 |
+| last60d | 2026-07-28 | 3 | 56 | 27 | 19 | 26 | 277 |
+| 90d | 2026-06-28 | 4 | 99 | 35 | 32 | 31 | 505 |
+| last180d | 2026-03-30 | 8 | 256 | 52 | 76 | 60 | 1391 |
+| 360d | 2025-10-01 | 16 | 392 | 64 | 174 | 99 | 2275 |
+| last720d | 2024-10-06 | 21 | 554 | 72 | 273 | 172 | 3377 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for beets lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T04:57:03Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T04:49:19Z._
