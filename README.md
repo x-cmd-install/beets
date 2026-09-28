@@ -14,12 +14,12 @@ x install beets
 
 ## Code insight
 
-Total: **103,840** lines of code across **447** files in the top 5 languages.
+Total: **103,850** lines of code across **447** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 69,197 | 3,703 | 13,783 | 304 |
-| ReStructuredText | 16,394 | 0 | 4,867 | 125 |
+| Python | 69,204 | 3,703 | 13,783 | 304 |
+| ReStructuredText | 16,397 | 0 | 4,867 | 125 |
 | JavaScript | 8,147 | 1,766 | 1,831 | 4 |
 | Json | 7,825 | 0 | 0 | 10 |
 | Yaml | 1,044 | 25 | 26 | 4 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.14.1` (2026-09-17)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-28
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 15,718 · **Forks**: 2,124 · **Open issues**: 3,235 · **Contributors**: 612
+- **Stars**: 15,722 · **Forks**: 2,124 · **Open issues**: 3,235 · **Contributors**: 612
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2108 · **Open PRs**: 75 · **Closed issues**: 2598 · **Open issues**: 637 · **Commits**: 15419
+- **Releases**: 55 · **Merged PRs**: 2109 · **Open PRs**: 74 · **Closed issues**: 2599 · **Open issues**: 636 · **Commits**: 15421
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 2 | 25 | 20 | 10 | 20 | 98 |
-| last60d | 2026-07-29 | 3 | 52 | 28 | 18 | 27 | 222 |
-| 90d | 2026-06-29 | 4 | 99 | 36 | 32 | 31 | 455 |
-| last180d | 2026-03-31 | 8 | 250 | 52 | 75 | 61 | 1304 |
-| 360d | 2025-10-02 | 16 | 391 | 64 | 173 | 100 | 2240 |
-| last720d | 2024-10-07 | 21 | 554 | 73 | 273 | 173 | 3377 |
+| 30d | 2026-08-29 | 2 | 26 | 19 | 10 | 18 | 100 |
+| last60d | 2026-07-30 | 2 | 52 | 25 | 18 | 27 | 224 |
+| 90d | 2026-06-30 | 4 | 97 | 35 | 29 | 29 | 457 |
+| last180d | 2026-04-01 | 8 | 250 | 51 | 75 | 61 | 1306 |
+| 360d | 2025-10-03 | 16 | 391 | 63 | 171 | 100 | 2242 |
+| last720d | 2024-10-08 | 21 | 555 | 72 | 273 | 173 | 3379 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for beets lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:13:37Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:30:47Z._
