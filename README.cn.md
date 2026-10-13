@@ -26,13 +26,13 @@ x install beets
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.7 / 10**
+总评分: **5.5 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (3/10) — Found 2/6 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install beets
 
 ## 流行度
 
-- **Star**: 15,781 · **Fork**: 2,143 · **开放 issue**: 3,241 · **贡献者**: 616
+- **Star**: 15,786 · **Fork**: 2,145 · **开放 issue**: 3,242 · **贡献者**: 616
 
 ## 累计统计
 
-- **发布数**: 55 · **已合并 PR**: 2124 · **开放 PR**: 73 · **已关闭 issue**: 2628 · **开放 issue**: 613 · **提交数**: 15506
+- **发布数**: 55 · **已合并 PR**: 2124 · **开放 PR**: 77 · **已关闭 issue**: 2628 · **开放 issue**: 614 · **提交数**: 15506
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 1 | 13 | 23 | 8 | 10 | 83 |
-| last60d | 2026-08-13 | 2 | 51 | 32 | 16 | 27 | 254 |
-| 90d | 2026-07-14 | 4 | 89 | 39 | 30 | 30 | 411 |
-| last180d | 2026-04-15 | 7 | 238 | 56 | 75 | 57 | 1191 |
-| 360d | 2025-10-17 | 14 | 396 | 64 | 167 | 93 | 2234 |
-| last720d | 2024-10-22 | 21 | 563 | 72 | 277 | 165 | 3445 |
+| 30d | 2026-09-13 | 1 | 12 | 27 | 7 | 11 | 83 |
+| last60d | 2026-08-14 | 2 | 49 | 36 | 16 | 28 | 254 |
+| 90d | 2026-07-15 | 4 | 85 | 43 | 30 | 31 | 411 |
+| last180d | 2026-04-16 | 7 | 236 | 60 | 75 | 57 | 1191 |
+| 360d | 2025-10-18 | 14 | 396 | 68 | 167 | 94 | 2234 |
+| last720d | 2024-10-23 | 21 | 563 | 76 | 277 | 166 | 3445 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ beets 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T05:55:41Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T06:49:19Z._
