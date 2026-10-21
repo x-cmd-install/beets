@@ -14,25 +14,25 @@ x install beets
 
 ## 代码洞察
 
-合计: **104,811** 行代码（覆盖前 5 种语言、共 **447** 个文件）。
+合计: **105,057** 行代码（覆盖前 5 种语言、共 **448** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 70,010 | 3,738 | 13,935 | 304 |
-| ReStructuredText | 16,544 | 0 | 4,902 | 125 |
+| Python | 70,200 | 3,713 | 13,979 | 305 |
+| ReStructuredText | 16,597 | 0 | 4,909 | 125 |
 | JavaScript | 8,147 | 1,766 | 1,831 | 4 |
 | Json | 7,825 | 0 | 0 | 10 |
-| Yaml | 1,048 | 25 | 27 | 4 |
+| Yaml | 1,049 | 25 | 27 | 4 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.5 / 10**
+总评分: **5.4 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 2/6 approved changesets -- score normalized to 3
+- **Code-Review** (1/10) — Found 1/7 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install beets
 ## 发布
 
 - **最新版本**: `v2.14.1` (2026-09-17)
-- **最近提交**: 2026-10-09
+- **最近提交**: 2026-10-20
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 15,814 · **Fork**: 2,261 · **开放 issue**: 3,229 · **贡献者**: 616
+- **Star**: 15,818 · **Fork**: 2,172 · **开放 issue**: 3,229 · **贡献者**: 616
 
 ## 累计统计
 
-- **发布数**: 55 · **已合并 PR**: 2068 · **开放 PR**: 74 · **已关闭 issue**: 2620 · **开放 issue**: 609 · **提交数**: 15506
+- **发布数**: 55 · **已合并 PR**: 2071 · **开放 PR**: 71 · **已关闭 issue**: 2622 · **开放 issue**: 607 · **提交数**: 15524
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 9 | 29 | 1 | 8 | 59 |
-| last60d | 2026-08-21 | 2 | 40 | 38 | 16 | 26 | 232 |
-| 90d | 2026-07-22 | 4 | 73 | 43 | 25 | 31 | 385 |
-| last180d | 2026-04-23 | 6 | 196 | 62 | 65 | 55 | 1139 |
-| 360d | 2025-10-25 | 14 | 364 | 69 | 162 | 91 | 2232 |
-| last720d | 2024-10-30 | 21 | 503 | 73 | 267 | 160 | 3435 |
+| 30d | 2026-09-21 | 0 | 11 | 26 | 1 | 8 | 72 |
+| last60d | 2026-08-22 | 2 | 42 | 35 | 16 | 26 | 247 |
+| 90d | 2026-07-23 | 4 | 75 | 40 | 25 | 31 | 400 |
+| last180d | 2026-04-24 | 6 | 198 | 59 | 65 | 55 | 1154 |
+| 360d | 2025-10-26 | 14 | 365 | 66 | 161 | 91 | 2247 |
+| last720d | 2024-10-31 | 21 | 506 | 70 | 267 | 160 | 3450 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ beets 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T04:43:44Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T04:35:55Z._
