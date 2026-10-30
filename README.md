@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,862 · **Forks**: 2,170 · **Open issues**: 3,231 · **Contributors**: 622
+- **Stars**: 15,869 · **Forks**: 2,172 · **Open issues**: 3,232 · **Contributors**: 622
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2081 · **Open PRs**: 70 · **Closed issues**: 2627 · **Open issues**: 604 · **Commits**: 15579
+- **Releases**: 55 · **Merged PRs**: 2081 · **Open PRs**: 75 · **Closed issues**: 2627 · **Open issues**: 605 · **Commits**: 15579
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 19 | 20 | 2 | 8 | 95 |
-| last60d | 2026-08-30 | 2 | 47 | 33 | 15 | 21 | 267 |
-| 90d | 2026-07-31 | 2 | 72 | 39 | 24 | 30 | 386 |
-| last180d | 2026-05-02 | 6 | 199 | 57 | 61 | 54 | 1161 |
-| 360d | 2025-11-03 | 14 | 373 | 64 | 163 | 90 | 2253 |
-| last720d | 2024-11-08 | 21 | 514 | 69 | 270 | 159 | 3499 |
+| 30d | 2026-09-30 | 0 | 16 | 25 | 2 | 8 | 95 |
+| last60d | 2026-08-31 | 2 | 46 | 38 | 15 | 22 | 267 |
+| 90d | 2026-08-01 | 2 | 70 | 44 | 24 | 31 | 386 |
+| last180d | 2026-05-03 | 6 | 198 | 62 | 61 | 55 | 1161 |
+| 360d | 2025-11-04 | 14 | 373 | 69 | 163 | 91 | 2253 |
+| last720d | 2024-11-09 | 21 | 514 | 74 | 270 | 160 | 3499 |
 
 ## Release assets
 
@@ -84,7 +84,7 @@ Reported by **133** distros on [repology.org](https://repology.org/project/beets
 | Ubuntu 26.04 LTS | `2.5.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.6.0` | ⚠️ outdated |
 | Arch | `2.14.1` | ✅ latest |
-| Homebrew | `2.14.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.14.1` | ✅ latest |
 | Nix unstable | `2.14.1` | ✅ latest |
 | Void | `2.13.1` | ⚠️ outdated |
@@ -100,4 +100,4 @@ Install metadata for beets lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:42:37Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:39:40Z._
