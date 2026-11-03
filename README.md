@@ -14,11 +14,11 @@ x install beets
 
 ## Code insight
 
-Total: **105,665** lines of code across **449** files in the top 5 languages.
+Total: **105,653** lines of code across **449** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 70,735 | 3,736 | 14,073 | 306 |
+| Python | 70,721 | 3,697 | 14,065 | 306 |
 | ReStructuredText | 16,660 | 0 | 4,914 | 125 |
 | JavaScript | 8,147 | 1,766 | 1,831 | 4 |
 | Json | 7,825 | 0 | 0 | 10 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.14.1` (2026-09-17)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-02
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 15,881 · **Forks**: 2,176 · **Open issues**: 3,232 · **Contributors**: 628
+- **Stars**: 15,888 · **Forks**: 2,177 · **Open issues**: 3,232 · **Contributors**: 628
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2092 · **Open PRs**: 76 · **Closed issues**: 2634 · **Open issues**: 598 · **Commits**: 15622
+- **Releases**: 55 · **Merged PRs**: 2096 · **Open PRs**: 77 · **Closed issues**: 2636 · **Open issues**: 596 · **Commits**: 15633
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 20 | 33 | 1 | 4 | 88 |
-| last60d | 2026-09-03 | 2 | 50 | 42 | 13 | 14 | 248 |
-| 90d | 2026-08-04 | 2 | 79 | 45 | 26 | 28 | 402 |
-| last180d | 2026-05-06 | 6 | 207 | 64 | 62 | 50 | 1191 |
-| 360d | 2025-11-07 | 14 | 382 | 70 | 168 | 85 | 2272 |
-| last720d | 2024-11-12 | 21 | 525 | 75 | 275 | 155 | 3535 |
+| 30d | 2026-10-04 | 0 | 22 | 33 | 1 | 4 | 99 |
+| last60d | 2026-09-04 | 2 | 53 | 43 | 12 | 14 | 259 |
+| 90d | 2026-08-05 | 2 | 80 | 46 | 26 | 28 | 413 |
+| last180d | 2026-05-07 | 5 | 210 | 65 | 61 | 50 | 1202 |
+| 360d | 2025-11-08 | 14 | 386 | 71 | 168 | 84 | 2283 |
+| last720d | 2024-11-13 | 21 | 529 | 76 | 275 | 155 | 3546 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **133** distros on [repology.org](https://repology.org/project/beets). **28** are ✅ on the latest upstream release, **84** are ⚠️ on an older version.
+Reported by **133** distros on [repology.org](https://repology.org/project/beets). **27** are ✅ on the latest upstream release, **85** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -84,7 +84,7 @@ Reported by **133** distros on [repology.org](https://repology.org/project/beets
 | Ubuntu 26.04 LTS | `2.5.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.6.0` | ⚠️ outdated |
 | Arch | `2.14.1` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `2.14.1` | ✅ latest |
 | Fedora rawhide | `2.14.1` | ✅ latest |
 | Nix unstable | `2.14.1` | ✅ latest |
 | Void | `2.13.1` | ⚠️ outdated |
@@ -100,4 +100,4 @@ Install metadata for beets lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:57:15Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:37:35Z._
