@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,901 · **Forks**: 2,188 · **Open issues**: 3,247 · **Contributors**: 631
+- **Stars**: 15,907 · **Forks**: 2,190 · **Open issues**: 3,249 · **Contributors**: 631
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2157 · **Open PRs**: 86 · **Closed issues**: 2646 · **Open issues**: 601 · **Commits**: 15643
+- **Releases**: 55 · **Merged PRs**: 2157 · **Open PRs**: 88 · **Closed issues**: 2646 · **Open issues**: 603 · **Commits**: 15643
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 19 | 33 | 1 | 5 | 109 |
-| last60d | 2026-09-08 | 1 | 50 | 45 | 10 | 15 | 270 |
-| 90d | 2026-08-09 | 2 | 83 | 51 | 25 | 30 | 424 |
-| last180d | 2026-05-11 | 5 | 227 | 70 | 61 | 50 | 1213 |
-| 360d | 2025-11-12 | 14 | 414 | 75 | 169 | 86 | 2294 |
-| last720d | 2024-11-17 | 21 | 588 | 85 | 284 | 160 | 3553 |
+| 30d | 2026-10-09 | 0 | 19 | 35 | 1 | 7 | 85 |
+| last60d | 2026-09-09 | 1 | 48 | 47 | 10 | 17 | 234 |
+| 90d | 2026-08-10 | 2 | 82 | 53 | 21 | 31 | 409 |
+| last180d | 2026-05-12 | 5 | 227 | 72 | 61 | 51 | 1138 |
+| 360d | 2025-11-13 | 14 | 414 | 77 | 169 | 88 | 2278 |
+| last720d | 2024-11-18 | 21 | 588 | 87 | 284 | 162 | 3552 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **134** distros on [repology.org](https://repology.org/project/beets). **29** are ✅ on the latest upstream release, **84** are ⚠️ on an older version.
+Reported by **135** distros on [repology.org](https://repology.org/project/beets). **30** are ✅ on the latest upstream release, **84** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for beets lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:53:11Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T05:59:29Z._
