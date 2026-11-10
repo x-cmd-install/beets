@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,912 · **Forks**: 2,191 · **Open issues**: 3,249 · **Contributors**: 633
+- **Stars**: 15,917 · **Forks**: 2,190 · **Open issues**: 3,249 · **Contributors**: 633
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 19 | 34 | 1 | 7 | 95 |
-| last60d | 2026-09-10 | 1 | 48 | 46 | 10 | 17 | 244 |
-| 90d | 2026-08-11 | 2 | 84 | 52 | 20 | 31 | 419 |
-| last180d | 2026-05-13 | 5 | 228 | 71 | 60 | 51 | 1148 |
-| 360d | 2025-11-14 | 14 | 416 | 76 | 169 | 88 | 2288 |
-| last720d | 2024-11-19 | 21 | 590 | 86 | 284 | 162 | 3562 |
+| 30d | 2026-10-11 | 0 | 19 | 33 | 1 | 7 | 95 |
+| last60d | 2026-09-11 | 1 | 47 | 44 | 10 | 16 | 244 |
+| 90d | 2026-08-12 | 2 | 84 | 52 | 20 | 31 | 419 |
+| last180d | 2026-05-14 | 5 | 225 | 71 | 58 | 51 | 1148 |
+| 360d | 2025-11-15 | 14 | 414 | 76 | 169 | 88 | 2288 |
+| last720d | 2024-11-20 | 21 | 590 | 86 | 284 | 162 | 3562 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **135** distros on [repology.org](https://repology.org/project/beets). **30** are ✅ on the latest upstream release, **84** are ⚠️ on an older version.
+Reported by **135** distros on [repology.org](https://repology.org/project/beets). **34** are ✅ on the latest upstream release, **80** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for beets lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:07:51Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:15:06Z._
