@@ -26,13 +26,13 @@ x install beets
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.5 / 10**
+总评分: **5.4 / 10**
 
 评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install beets
 
 ## 流行度
 
-- **Star**: 15,917 · **Fork**: 2,190 · **开放 issue**: 3,249 · **贡献者**: 633
+- **Star**: 15,923 · **Fork**: 2,191 · **开放 issue**: 3,251 · **贡献者**: 633
 
 ## 累计统计
 
-- **发布数**: 55 · **已合并 PR**: 2159 · **开放 PR**: 87 · **已关闭 issue**: 2647 · **开放 issue**: 602 · **提交数**: 15653
+- **发布数**: 55 · **已合并 PR**: 2159 · **开放 PR**: 90 · **已关闭 issue**: 2647 · **开放 issue**: 604 · **提交数**: 15653
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 19 | 33 | 1 | 7 | 95 |
-| last60d | 2026-09-11 | 1 | 47 | 44 | 10 | 16 | 244 |
-| 90d | 2026-08-12 | 2 | 84 | 52 | 20 | 31 | 419 |
-| last180d | 2026-05-14 | 5 | 225 | 71 | 58 | 51 | 1148 |
-| 360d | 2025-11-15 | 14 | 414 | 76 | 169 | 88 | 2288 |
-| last720d | 2024-11-20 | 21 | 590 | 86 | 284 | 162 | 3562 |
+| 30d | 2026-10-12 | 0 | 17 | 35 | 1 | 9 | 95 |
+| last60d | 2026-09-12 | 1 | 44 | 47 | 10 | 18 | 244 |
+| 90d | 2026-08-13 | 2 | 84 | 55 | 20 | 33 | 419 |
+| last180d | 2026-05-15 | 5 | 225 | 74 | 57 | 53 | 1148 |
+| 360d | 2025-11-16 | 14 | 414 | 79 | 168 | 90 | 2288 |
+| last720d | 2024-11-21 | 21 | 590 | 89 | 284 | 164 | 3562 |
 
 ## Release 资产
 
@@ -74,7 +74,7 @@ x install beets
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/beets) 上共有 **135** 个发行版报告此项目。**34** 个 ✅ 已是最新上游版本，**80** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/beets) 上共有 **135** 个发行版报告此项目。**35** 个 ✅ 已是最新上游版本，**79** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -87,7 +87,7 @@ x install beets
 | Homebrew | `2.14.1` | ✅ latest |
 | Fedora rawhide | `2.14.1` | ✅ latest |
 | Nix unstable | `2.14.1` | ✅ latest |
-| Void | `2.13.1` | ⚠️ outdated |
+| Void | `2.14.1` | ✅ latest |
 | Alpine edge | `2.14.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.14.1` | ✅ latest |
 
@@ -100,4 +100,4 @@ beets 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T07:15:06Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T06:10:04Z._

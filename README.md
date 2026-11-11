@@ -26,13 +26,13 @@ Total: **105,775** lines of code across **449** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.5 / 10**
+Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,917 · **Forks**: 2,190 · **Open issues**: 3,249 · **Contributors**: 633
+- **Stars**: 15,923 · **Forks**: 2,191 · **Open issues**: 3,251 · **Contributors**: 633
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2159 · **Open PRs**: 87 · **Closed issues**: 2647 · **Open issues**: 602 · **Commits**: 15653
+- **Releases**: 55 · **Merged PRs**: 2159 · **Open PRs**: 90 · **Closed issues**: 2647 · **Open issues**: 604 · **Commits**: 15653
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 19 | 33 | 1 | 7 | 95 |
-| last60d | 2026-09-11 | 1 | 47 | 44 | 10 | 16 | 244 |
-| 90d | 2026-08-12 | 2 | 84 | 52 | 20 | 31 | 419 |
-| last180d | 2026-05-14 | 5 | 225 | 71 | 58 | 51 | 1148 |
-| 360d | 2025-11-15 | 14 | 414 | 76 | 169 | 88 | 2288 |
-| last720d | 2024-11-20 | 21 | 590 | 86 | 284 | 162 | 3562 |
+| 30d | 2026-10-12 | 0 | 17 | 35 | 1 | 9 | 95 |
+| last60d | 2026-09-12 | 1 | 44 | 47 | 10 | 18 | 244 |
+| 90d | 2026-08-13 | 2 | 84 | 55 | 20 | 33 | 419 |
+| last180d | 2026-05-15 | 5 | 225 | 74 | 57 | 53 | 1148 |
+| 360d | 2025-11-16 | 14 | 414 | 79 | 168 | 90 | 2288 |
+| last720d | 2024-11-21 | 21 | 590 | 89 | 284 | 164 | 3562 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **135** distros on [repology.org](https://repology.org/project/beets). **34** are ✅ on the latest upstream release, **80** are ⚠️ on an older version.
+Reported by **135** distros on [repology.org](https://repology.org/project/beets). **35** are ✅ on the latest upstream release, **79** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,7 +87,7 @@ Reported by **135** distros on [repology.org](https://repology.org/project/beets
 | Homebrew | `2.14.1` | ✅ latest |
 | Fedora rawhide | `2.14.1` | ✅ latest |
 | Nix unstable | `2.14.1` | ✅ latest |
-| Void | `2.13.1` | ⚠️ outdated |
+| Void | `2.14.1` | ✅ latest |
 | Alpine edge | `2.14.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.14.1` | ✅ latest |
 
@@ -100,4 +100,4 @@ Install metadata for beets lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:15:06Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:10:03Z._
