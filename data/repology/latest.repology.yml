@@ -1,73 +1,44 @@
-- repo: chimera
-  subrepo: user
+- repo: nix_stable_24_05
   srcname: beets
-  binname: beets-doc
-  visiblename: beets-doc
-  version: 2.14.1
-  origversion: 2.14.1-r0
-  status: newest
-  summary: CLI media library management (documentation)
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: beets
-  binname: beets-man
-  visiblename: beets-man
-  version: 2.14.1
-  origversion: 2.14.1-r0
-  status: newest
-  summary: CLI media library management (manual pages)
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: beets-minimal
   visiblename: beets
-  version: 2.5.1
+  version: 1.6.0
   origversion: null
   status: outdated
   summary: Music tagger and library organizer
   maintainers:
-    - chmont@protonmail.com
+    - aszlig@nix.build
     - me@doronbehar.com
     - meurerbernardo@gmail.com
     - pjones@devalot.com
   licenses:
     - MIT
-- repo: chimera
-  subrepo: user
-  srcname: beets
-  binname: beets-pycache
-  visiblename: beets-pycache
-  version: 2.14.1
-  origversion: 2.14.1-r0
-  status: newest
-  summary: CLI media library management (Python bytecode)
+- repo: nix_stable_24_05
+  srcname: beets-unstable
+  visiblename: beets-unstable
+  version: "2024-03-16"
+  origversion: null
+  status: untrusted
+  summary: Music tagger and library organizer
+  maintainers:
+    - aszlig@nix.build
+    - me@doronbehar.com
+    - meurerbernardo@gmail.com
+    - pjones@devalot.com
   licenses:
     - MIT
-- repo: chocolatey
-  binname: beets
-  visiblename: Beets
-  version: 2.14.1
-  origversion: null
-  status: newest
-  summary: Beets is the media library management system for obsessive music geeks.
-- repo: pureos_landing
-  subrepo: landing/main
+- repo: alpine_3_18
+  subrepo: community
   srcname: beets
-  binnames:
-    - beets
-    - beets-doc
-  visiblename: beets
-  version: 2.2.0
-  origversion: 2.2.0-3+deb13u1
+  binname: beets-doc
+  visiblename: beets-doc
+  version: 1.6.0
+  origversion: 1.6.0-r5
   status: outdated
+  summary: Music library manager and MusicBrainz tagger (documentation)
   maintainers:
-    - team+python@tracker.debian.org
-    - rak@debian.org
-    - stefanor@debian.org
-  categories:
-    - sound
+    - ncopa@alpinelinux.org
+  licenses:
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: beets
@@ -120,17 +91,15 @@
     - ncopa@alpinelinux.org
   licenses:
     - MIT
-- repo: alpine_3_18
-  subrepo: community
+- repo: manjaro_stable
+  subrepo: extra
   srcname: beets
-  binname: beets-doc
-  visiblename: beets-doc
-  version: 1.6.0
-  origversion: 1.6.0-r5
-  status: outdated
-  summary: Music library manager and MusicBrainz tagger (documentation)
-  maintainers:
-    - ncopa@alpinelinux.org
+  binname: beets
+  visiblename: beets
+  version: 2.14.1
+  origversion: 2.14.1-1
+  status: newest
+  summary: Flexible music library manager and tagger
   licenses:
     - MIT
 - repo: alpine_3_18
@@ -274,6 +243,17 @@
   summary: Music library manager and MusicBrainz tagger
   maintainers:
     - ncopa@alpinelinux.org
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: beets
+  binname: beets
+  visiblename: beets
+  version: 2.14.1
+  origversion: 2.14.1-1
+  status: newest
+  summary: Flexible music library manager and tagger
   licenses:
     - MIT
 - repo: alpine_3_21
@@ -574,6 +554,46 @@
   summary: CLI media library management
   licenses:
     - MIT
+- repo: chimera
+  subrepo: user
+  srcname: beets
+  binname: beets-doc
+  visiblename: beets-doc
+  version: 2.14.1
+  origversion: 2.14.1-r0
+  status: newest
+  summary: CLI media library management (documentation)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: beets
+  binname: beets-man
+  visiblename: beets-man
+  version: 2.14.1
+  origversion: 2.14.1-r0
+  status: newest
+  summary: CLI media library management (manual pages)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: beets
+  binname: beets-pycache
+  visiblename: beets-pycache
+  version: 2.14.1
+  origversion: 2.14.1-r0
+  status: newest
+  summary: CLI media library management (Python bytecode)
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: beets
+  visiblename: Beets
+  version: 2.14.1
+  origversion: null
+  status: newest
+  summary: Beets is the media library management system for obsessive music geeks.
 - repo: debian_11
   subrepo: bullseye-security/main
   srcname: beets
@@ -639,22 +659,6 @@
     - stefanor@debian.org
   categories:
     - sound
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: beets
-  binnames:
-    - beets
-    - beets-doc
-  visiblename: beets
-  version: 1.6.0
-  origversion: 1.6.0-4+deb12u1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - rak@debian.org
-    - stefanor@debian.org
-  categories:
-    - sound
 - repo: debian_14
   subrepo: forky/main
   srcname: beets
@@ -679,7 +683,7 @@
     - beets-doc
   visiblename: beets
   version: 2.14.1
-  origversion: 2.14.1-1
+  origversion: 2.14.1-2
   status: newest
   maintainers:
     - team+python@tracker.debian.org
@@ -725,7 +729,7 @@
     - beets-doc
   visiblename: beets
   version: 2.14.1
-  origversion: 2.14.1-1
+  origversion: 2.14.1-2
   status: newest
   maintainers:
     - team+python@tracker.debian.org
@@ -745,6 +749,17 @@
     - fallback-mnt-exherbo@repology
   categories:
     - media
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: beets
+  binname: beets
+  visiblename: beets
+  version: 2.14.1
+  origversion: 2.14.1-1
+  status: newest
+  summary: Flexible music library manager and tagger
+  licenses:
+    - MIT
 - repo: exherbo
   subrepo: somasis
   srcname: media/beets
@@ -853,37 +868,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: updates
-  srcname: beets
-  binnames:
-    - beets
-    - beets-doc
-  visiblename: beets
-  version: 2.6.1
-  origversion: 2.6.1-1.fc43
-  status: outdated
-  summary: Music library manager and MusicBrainz tagger
-  licenses:
-    - MIT and ISC
-  categories:
-    - Unspecified
-- repo: raspbian_stable
-  subrepo: main
-  srcname: beets
-  binnames:
-    - beets
-    - beets-doc
-  visiblename: beets
-  version: 2.2.0
-  origversion: 2.2.0-3+deb13u1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - rak@debian.org
-    - stefanor@debian.org
-  categories:
-    - sound
-- repo: fedora_43
   subrepo: release
   srcname: beets
   binnames:
@@ -898,31 +882,21 @@
     - MIT and ISC
   categories:
     - Unspecified
-- repo: fedora_44
-  subrepo: release
+- repo: fedora_43
+  subrepo: updates
   srcname: beets
   binnames:
     - beets
     - beets-doc
   visiblename: beets
-  version: 2.7.1
-  origversion: 2.7.1-1.fc44
-  status: legacy
+  version: 2.6.1
+  origversion: 2.6.1-1.fc43
+  status: outdated
   summary: Music library manager and MusicBrainz tagger
   licenses:
     - MIT and ISC
   categories:
     - Unspecified
-- repo: slackbuilds
-  srcname: multimedia/beets
-  visiblename: multimedia/beets
-  version: 2.5.1
-  origversion: null
-  status: outdated
-  maintainers:
-    - fourtysixandtwo@sliderr.net
-  categories:
-    - multimedia
 - repo: fedora_44
   subrepo: updates
   srcname: beets
@@ -946,6 +920,21 @@
   version: 2.14.1
   origversion: 2.14.1-1.fc44
   status: newest
+  summary: Music library manager and MusicBrainz tagger
+  licenses:
+    - MIT and ISC
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: beets
+  binnames:
+    - beets
+    - beets-doc
+  visiblename: beets
+  version: 2.7.1
+  origversion: 2.7.1-1.fc44
+  status: legacy
   summary: Music library manager and MusicBrainz tagger
   licenses:
     - MIT and ISC
@@ -1051,22 +1040,6 @@
     - MIT
   categories:
     - media-sound
-- repo: raspbian_testing
-  subrepo: main
-  srcname: beets
-  binnames:
-    - beets
-    - beets-doc
-  visiblename: beets
-  version: 2.14.1
-  origversion: 2.14.1-1
-  status: newest
-  maintainers:
-    - team+python@tracker.debian.org
-    - plenae@disroot.org
-    - rak@debian.org
-  categories:
-    - sound
 - repo: gentoo
   srcname: media-sound/beets
   visiblename: media-sound/beets
@@ -1279,67 +1252,6 @@
     - MIT
   categories:
     - audio
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: beets
-  binname: beets
-  visiblename: beets
-  version: 2.14.1
-  origversion: 2.14.1-1
-  status: newest
-  summary: Flexible music library manager and tagger
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: beets
-  binname: beets
-  visiblename: beets
-  version: 2.14.1
-  origversion: 2.14.1-1
-  status: newest
-  summary: Flexible music library manager and tagger
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: beets
-  binname: beets
-  visiblename: beets
-  version: 2.14.1
-  origversion: 2.14.1-1
-  status: newest
-  summary: Flexible music library manager and tagger
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: beets
-  visiblename: beets
-  version: 1.6.0
-  origversion: null
-  status: outdated
-  summary: Music tagger and library organizer
-  maintainers:
-    - aszlig@nix.build
-    - me@doronbehar.com
-    - meurerbernardo@gmail.com
-    - pjones@devalot.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: beets-unstable
-  visiblename: beets-unstable
-  version: "2024-03-16"
-  origversion: null
-  status: untrusted
-  summary: Music tagger and library organizer
-  maintainers:
-    - aszlig@nix.build
-    - me@doronbehar.com
-    - meurerbernardo@gmail.com
-    - pjones@devalot.com
-  licenses:
-    - MIT
 - repo: nix_stable_24_11
   srcname: beets
   visiblename: beets
@@ -1402,6 +1314,20 @@
     - MIT
 - repo: nix_stable_25_11
   srcname: beets
+  visiblename: beets
+  version: 2.5.1
+  origversion: null
+  status: outdated
+  summary: Music tagger and library organizer
+  maintainers:
+    - chmont@protonmail.com
+    - me@doronbehar.com
+    - meurerbernardo@gmail.com
+    - pjones@devalot.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: beets-minimal
   visiblename: beets
   version: 2.5.1
   origversion: null
@@ -1645,6 +1571,80 @@
     - stefanor@debian.org
   categories:
     - sound
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: beets
+  binnames:
+    - beets
+    - beets-doc
+  visiblename: beets
+  version: 2.2.0
+  origversion: 2.2.0-3+deb13u1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - rak@debian.org
+    - stefanor@debian.org
+  categories:
+    - sound
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: beets
+  binnames:
+    - beets
+    - beets-doc
+  visiblename: beets
+  version: 1.6.0
+  origversion: 1.6.0-4+deb12u1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - rak@debian.org
+    - stefanor@debian.org
+  categories:
+    - sound
+- repo: raspbian_stable
+  subrepo: main
+  srcname: beets
+  binnames:
+    - beets
+    - beets-doc
+  visiblename: beets
+  version: 2.2.0
+  origversion: 2.2.0-3+deb13u1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - rak@debian.org
+    - stefanor@debian.org
+  categories:
+    - sound
+- repo: raspbian_testing
+  subrepo: main
+  srcname: beets
+  binnames:
+    - beets
+    - beets-doc
+  visiblename: beets
+  version: 2.14.1
+  origversion: 2.14.1-1
+  status: newest
+  maintainers:
+    - team+python@tracker.debian.org
+    - plenae@disroot.org
+    - rak@debian.org
+  categories:
+    - sound
+- repo: slackbuilds
+  srcname: multimedia/beets
+  visiblename: multimedia/beets
+  version: 2.5.1
+  origversion: null
+  status: outdated
+  maintainers:
+    - fourtysixandtwo@sliderr.net
+  categories:
+    - multimedia
 - repo: solus
   srcname: beets
   binname: beets
@@ -1879,9 +1879,9 @@
   srcname: beets
   binname: beets
   visiblename: beets
-  version: 2.13.1
-  origversion: 2.13.1_1
-  status: outdated
+  version: 2.14.1
+  origversion: 2.14.1_1
+  status: newest
   summary: Media library management system for obsessive-compulsive music geeks
   maintainers:
     - joel@beckmeyer.us
