@@ -1,53 +1,5 @@
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: beets
-  binnames:
-    - beets
-    - beets-doc
-  visiblename: beets
-  version: 2.2.0
-  origversion: 2.2.0-3+deb13u1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - rak@debian.org
-    - stefanor@debian.org
-  categories:
-    - sound
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: beets
-  binnames:
-    - beets
-    - beets-doc
-  visiblename: beets
-  version: 1.6.0
-  origversion: 1.6.0-4+deb12u1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - rak@debian.org
-    - stefanor@debian.org
-  categories:
-    - sound
-- repo: raspbian_stable
-  subrepo: main
-  srcname: beets
-  binnames:
-    - beets
-    - beets-doc
-  visiblename: beets
-  version: 2.2.0
-  origversion: 2.2.0-3+deb13u1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - rak@debian.org
-    - stefanor@debian.org
-  categories:
-    - sound
-- repo: raspbian_testing
-  subrepo: main
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: beets
   binnames:
     - beets
@@ -218,22 +170,6 @@
     - ncopa@alpinelinux.org
   licenses:
     - MIT
-- repo: debian_14
-  subrepo: forky/main
-  srcname: beets
-  binnames:
-    - beets
-    - beets-doc
-  visiblename: beets
-  version: 2.14.1
-  origversion: 2.14.1-2
-  status: newest
-  maintainers:
-    - team+python@tracker.debian.org
-    - plenae@disroot.org
-    - rak@debian.org
-  categories:
-    - sound
 - repo: alpine_3_20
   subrepo: community
   srcname: beets
@@ -260,6 +196,22 @@
     - ncopa@alpinelinux.org
   licenses:
     - MIT
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: beets
+  binnames:
+    - beets
+    - beets-doc
+  visiblename: beets
+  version: 1.4.9
+  origversion: 1.4.9-7
+  status: outdated
+  maintainers:
+    - python-apps-team@lists.alioth.debian.org
+    - rak@debian.org
+    - stefanor@debian.org
+  categories:
+    - sound
 - repo: alpine_3_20
   subrepo: community
   srcname: beets
@@ -689,6 +641,22 @@
     - stefanor@debian.org
   categories:
     - sound
+- repo: debian_14
+  subrepo: forky/main
+  srcname: beets
+  binnames:
+    - beets
+    - beets-doc
+  visiblename: beets
+  version: 2.14.1
+  origversion: 2.14.1-2
+  status: newest
+  maintainers:
+    - team+python@tracker.debian.org
+    - plenae@disroot.org
+    - rak@debian.org
+  categories:
+    - sound
 - repo: debian_unstable
   subrepo: sid/main
   srcname: beets
@@ -719,38 +687,6 @@
     - python-apps-team@lists.alioth.debian.org
     - rak@debian.org
     - stefanor@debian.org
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: beets
-  binnames:
-    - beets
-    - beets-doc
-  visiblename: beets
-  version: 1.4.9
-  origversion: 1.4.9-7
-  status: outdated
-  maintainers:
-    - python-apps-team@lists.alioth.debian.org
-    - rak@debian.org
-    - stefanor@debian.org
-  categories:
-    - sound
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: beets
-  binnames:
-    - beets
-    - beets-doc
-  visiblename: beets
-  version: 2.14.1
-  origversion: 2.14.1-2
-  status: newest
-  maintainers:
-    - team+python@tracker.debian.org
-    - plenae@disroot.org
-    - rak@debian.org
-  categories:
-    - sound
 - repo: exherbo
   subrepo: somasis
   srcname: media/beets
@@ -871,21 +807,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: updates
-  srcname: beets
-  binnames:
-    - beets
-    - beets-doc
-  visiblename: beets
-  version: 2.6.1
-  origversion: 2.6.1-1.fc43
-  status: outdated
-  summary: Music library manager and MusicBrainz tagger
-  licenses:
-    - MIT and ISC
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: release
   srcname: beets
   binnames:
@@ -895,6 +816,21 @@
   version: 2.4.0
   origversion: 2.4.0-2.fc43
   status: legacy
+  summary: Music library manager and MusicBrainz tagger
+  licenses:
+    - MIT and ISC
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: beets
+  binnames:
+    - beets
+    - beets-doc
+  visiblename: beets
+  version: 2.6.1
+  origversion: 2.6.1-1.fc43
+  status: outdated
   summary: Music library manager and MusicBrainz tagger
   licenses:
     - MIT and ISC
@@ -1210,20 +1146,6 @@
     - MIT
   categories:
     - media-sound
-- repo: nix_stable_25_11
-  srcname: beets-minimal
-  visiblename: beets
-  version: 2.5.1
-  origversion: null
-  status: outdated
-  summary: Music tagger and library organizer
-  maintainers:
-    - chmont@protonmail.com
-    - me@doronbehar.com
-    - meurerbernardo@gmail.com
-    - pjones@devalot.com
-  licenses:
-    - MIT
 - repo: liguros_develop
   srcname: media-sound/beets
   visiblename: media-sound/beets
@@ -1432,6 +1354,20 @@
     - pjones@devalot.com
   licenses:
     - MIT
+- repo: nix_stable_25_11
+  srcname: beets-minimal
+  visiblename: beets
+  version: 2.5.1
+  origversion: null
+  status: outdated
+  summary: Music tagger and library organizer
+  maintainers:
+    - chmont@protonmail.com
+    - me@doronbehar.com
+    - meurerbernardo@gmail.com
+    - pjones@devalot.com
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: beets
   visiblename: beets
@@ -1567,22 +1503,6 @@
   licenses:
     - MIT
 - repo: pardus_21
-  subrepo: main
-  srcname: beets
-  binnames:
-    - beets
-    - beets-doc
-  visiblename: beets
-  version: 1.4.9
-  origversion: 1.4.9-7
-  status: outdated
-  maintainers:
-    - python-apps-team@lists.alioth.debian.org
-    - rak@debian.org
-    - stefanor@debian.org
-  categories:
-    - sound
-- repo: pardus_21
   subrepo: updates/main
   srcname: beets
   binnames:
@@ -1599,8 +1519,24 @@
     - stefanor@debian.org
   categories:
     - sound
+- repo: pardus_21
+  subrepo: main
+  srcname: beets
+  binnames:
+    - beets
+    - beets-doc
+  visiblename: beets
+  version: 1.4.9
+  origversion: 1.4.9-7
+  status: outdated
+  maintainers:
+    - python-apps-team@lists.alioth.debian.org
+    - rak@debian.org
+    - stefanor@debian.org
+  categories:
+    - sound
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: beets
   binnames:
     - beets
@@ -1616,7 +1552,7 @@
   categories:
     - sound
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: beets
   binnames:
     - beets
@@ -1661,6 +1597,70 @@
     - python-apps-team@lists.alioth.debian.org
     - rak@debian.org
     - stefanor@debian.org
+  categories:
+    - sound
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: beets
+  binnames:
+    - beets
+    - beets-doc
+  visiblename: beets
+  version: 2.2.0
+  origversion: 2.2.0-3+deb13u1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - rak@debian.org
+    - stefanor@debian.org
+  categories:
+    - sound
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: beets
+  binnames:
+    - beets
+    - beets-doc
+  visiblename: beets
+  version: 1.6.0
+  origversion: 1.6.0-4+deb12u1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - rak@debian.org
+    - stefanor@debian.org
+  categories:
+    - sound
+- repo: raspbian_stable
+  subrepo: main
+  srcname: beets
+  binnames:
+    - beets
+    - beets-doc
+  visiblename: beets
+  version: 2.2.0
+  origversion: 2.2.0-3+deb13u1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - rak@debian.org
+    - stefanor@debian.org
+  categories:
+    - sound
+- repo: raspbian_testing
+  subrepo: main
+  srcname: beets
+  binnames:
+    - beets
+    - beets-doc
+  visiblename: beets
+  version: 2.14.1
+  origversion: 2.14.1-2
+  status: newest
+  maintainers:
+    - team+python@tracker.debian.org
+    - plenae@disroot.org
+    - rak@debian.org
   categories:
     - sound
 - repo: slackbuilds
