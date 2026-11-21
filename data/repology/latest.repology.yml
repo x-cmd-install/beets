@@ -1,210 +1,12 @@
-- repo: devuan_unstable
-  subrepo: unstable/main
+- repo: pureos_amber
+  subrepo: amber/main
   srcname: beets
   binnames:
     - beets
     - beets-doc
   visiblename: beets
-  version: 2.14.1
-  origversion: 2.14.1-2
-  status: newest
-  maintainers:
-    - team+python@tracker.debian.org
-    - plenae@disroot.org
-    - rak@debian.org
-  categories:
-    - sound
-- repo: alpine_3_17
-  subrepo: community
-  srcname: beets
-  binname: beets-doc
-  visiblename: beets-doc
-  version: 1.6.0
-  origversion: 1.6.0-r2
-  status: outdated
-  summary: Music library manager and MusicBrainz tagger (documentation)
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_17
-  subrepo: community
-  srcname: beets
-  binname: beets
-  visiblename: beets
-  version: 1.6.0
-  origversion: 1.6.0-r2
-  status: outdated
-  summary: Music library manager and MusicBrainz tagger
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_17
-  subrepo: community
-  srcname: beets
-  binname: beets-zsh-completion
-  visiblename: beets-zsh-completion
-  version: 1.6.0
-  origversion: 1.6.0-r2
-  status: outdated
-  summary: Zsh completions for beets
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: beets
-  binname: beets
-  visiblename: beets
-  version: 1.6.0
-  origversion: 1.6.0-r5
-  status: outdated
-  summary: Music library manager and MusicBrainz tagger
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: beets
-  binname: beets-doc
-  visiblename: beets-doc
-  version: 1.6.0
-  origversion: 1.6.0-r5
-  status: outdated
-  summary: Music library manager and MusicBrainz tagger (documentation)
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: beets
-  binname: beets-pyc
-  visiblename: beets-pyc
-  version: 1.6.0
-  origversion: 1.6.0-r5
-  status: outdated
-  summary: Precompiled Python bytecode for beets
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: beets
-  binname: beets-zsh-completion
-  visiblename: beets-zsh-completion
-  version: 1.6.0
-  origversion: 1.6.0-r5
-  status: outdated
-  summary: Zsh completions for beets
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: beets
-  binname: beets
-  visiblename: beets
-  version: 1.6.0
-  origversion: 1.6.0-r5
-  status: outdated
-  summary: Music library manager and MusicBrainz tagger
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: beets
-  binname: beets-doc
-  visiblename: beets-doc
-  version: 1.6.0
-  origversion: 1.6.0-r5
-  status: outdated
-  summary: Music library manager and MusicBrainz tagger (documentation)
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: beets
-  binname: beets-pyc
-  visiblename: beets-pyc
-  version: 1.6.0
-  origversion: 1.6.0-r5
-  status: outdated
-  summary: Precompiled Python bytecode for beets
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: beets
-  binname: beets-zsh-completion
-  visiblename: beets-zsh-completion
-  version: 1.6.0
-  origversion: 1.6.0-r5
-  status: outdated
-  summary: Zsh completions for beets
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: beets
-  binname: beets
-  visiblename: beets
-  version: 1.6.0
-  origversion: 1.6.0-r6
-  status: outdated
-  summary: Music library manager and MusicBrainz tagger
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: beets
-  binname: beets-doc
-  visiblename: beets-doc
-  version: 1.6.0
-  origversion: 1.6.0-r6
-  status: outdated
-  summary: Music library manager and MusicBrainz tagger (documentation)
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: beets
-  binname: beets-pyc
-  visiblename: beets-pyc
-  version: 1.6.0
-  origversion: 1.6.0-r6
-  status: outdated
-  summary: Precompiled Python bytecode for beets
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - MIT
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: beets
-  binnames:
-    - beets
-    - beets-doc
-  visiblename: beets
-  version: 1.4.9
-  origversion: 1.4.9-7
+  version: 1.4.7
+  origversion: 1.4.7-2
   status: outdated
   maintainers:
     - python-apps-team@lists.alioth.debian.org
@@ -212,6 +14,188 @@
     - stefanor@debian.org
   categories:
     - sound
+- repo: alpine_3_17
+  subrepo: community
+  srcname: beets
+  binname: beets-doc
+  visiblename: beets-doc
+  version: 1.6.0
+  origversion: 1.6.0-r2
+  status: outdated
+  summary: Music library manager and MusicBrainz tagger (documentation)
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: beets
+  binname: beets
+  visiblename: beets
+  version: 1.6.0
+  origversion: 1.6.0-r2
+  status: outdated
+  summary: Music library manager and MusicBrainz tagger
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: beets
+  binname: beets-zsh-completion
+  visiblename: beets-zsh-completion
+  version: 1.6.0
+  origversion: 1.6.0-r2
+  status: outdated
+  summary: Zsh completions for beets
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: beets
+  binname: beets
+  visiblename: beets
+  version: 1.6.0
+  origversion: 1.6.0-r5
+  status: outdated
+  summary: Music library manager and MusicBrainz tagger
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: beets
+  binname: beets-doc
+  visiblename: beets-doc
+  version: 1.6.0
+  origversion: 1.6.0-r5
+  status: outdated
+  summary: Music library manager and MusicBrainz tagger (documentation)
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: beets
+  binname: beets-pyc
+  visiblename: beets-pyc
+  version: 1.6.0
+  origversion: 1.6.0-r5
+  status: outdated
+  summary: Precompiled Python bytecode for beets
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: beets
+  binname: beets-zsh-completion
+  visiblename: beets-zsh-completion
+  version: 1.6.0
+  origversion: 1.6.0-r5
+  status: outdated
+  summary: Zsh completions for beets
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: beets
+  binname: beets
+  visiblename: beets
+  version: 1.6.0
+  origversion: 1.6.0-r5
+  status: outdated
+  summary: Music library manager and MusicBrainz tagger
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: beets
+  binname: beets-doc
+  visiblename: beets-doc
+  version: 1.6.0
+  origversion: 1.6.0-r5
+  status: outdated
+  summary: Music library manager and MusicBrainz tagger (documentation)
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: beets
+  binname: beets-pyc
+  visiblename: beets-pyc
+  version: 1.6.0
+  origversion: 1.6.0-r5
+  status: outdated
+  summary: Precompiled Python bytecode for beets
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: beets
+  binname: beets-zsh-completion
+  visiblename: beets-zsh-completion
+  version: 1.6.0
+  origversion: 1.6.0-r5
+  status: outdated
+  summary: Zsh completions for beets
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: beets
+  binname: beets
+  visiblename: beets
+  version: 1.6.0
+  origversion: 1.6.0-r6
+  status: outdated
+  summary: Music library manager and MusicBrainz tagger
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: beets
+  binname: beets-doc
+  visiblename: beets-doc
+  version: 1.6.0
+  origversion: 1.6.0-r6
+  status: outdated
+  summary: Music library manager and MusicBrainz tagger (documentation)
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: beets
+  binname: beets-pyc
+  visiblename: beets-pyc
+  version: 1.6.0
+  origversion: 1.6.0-r6
+  status: outdated
+  summary: Precompiled Python bytecode for beets
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - MIT
 - repo: alpine_3_20
   subrepo: community
   srcname: beets
@@ -673,20 +657,38 @@
     - rak@debian.org
   categories:
     - sound
-- repo: deepin_unstable
-  subrepo: main
+- repo: devuan_4_0
+  subrepo: chimaera/main
   srcname: beets
   binnames:
     - beets
     - beets-doc
   visiblename: beets
-  version: 1.4.7
-  origversion: 1.4.7-2
+  version: 1.4.9
+  origversion: 1.4.9-7
   status: outdated
   maintainers:
     - python-apps-team@lists.alioth.debian.org
     - rak@debian.org
     - stefanor@debian.org
+  categories:
+    - sound
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: beets
+  binnames:
+    - beets
+    - beets-doc
+  visiblename: beets
+  version: 2.14.1
+  origversion: 2.14.1-2
+  status: newest
+  maintainers:
+    - team+python@tracker.debian.org
+    - plenae@disroot.org
+    - rak@debian.org
+  categories:
+    - sound
 - repo: exherbo
   subrepo: somasis
   srcname: media/beets
@@ -744,6 +746,22 @@
   categories:
     - Unspecified
 - repo: fedora_41
+  subrepo: updates
+  srcname: beets
+  binnames:
+    - beets
+    - beets-plugins
+    - beets-doc
+  visiblename: beets
+  version: 2.0.0
+  origversion: 2.0.0-1.fc41
+  status: outdated
+  summary: Music library manager and MusicBrainz tagger
+  licenses:
+    - MIT and ISC
+  categories:
+    - Unspecified
+- repo: fedora_41
   subrepo: release
   srcname: beets
   binnames:
@@ -759,16 +777,15 @@
     - MIT and ISC
   categories:
     - Unspecified
-- repo: fedora_41
+- repo: fedora_42
   subrepo: updates
   srcname: beets
   binnames:
     - beets
-    - beets-plugins
     - beets-doc
   visiblename: beets
-  version: 2.0.0
-  origversion: 2.0.0-1.fc41
+  version: 2.5.1
+  origversion: 2.5.1-1.fc42
   status: outdated
   summary: Music library manager and MusicBrainz tagger
   licenses:
@@ -786,21 +803,6 @@
   version: 2.0.0
   origversion: 2.0.0-2.fc42
   status: legacy
-  summary: Music library manager and MusicBrainz tagger
-  licenses:
-    - MIT and ISC
-  categories:
-    - Unspecified
-- repo: fedora_42
-  subrepo: updates
-  srcname: beets
-  binnames:
-    - beets
-    - beets-doc
-  visiblename: beets
-  version: 2.5.1
-  origversion: 2.5.1-1.fc42
-  status: outdated
   summary: Music library manager and MusicBrainz tagger
   licenses:
     - MIT and ISC
@@ -992,6 +994,21 @@
     - MIT
   categories:
     - media-sound
+- repo: nix_stable_25_05
+  srcname: beets-unstable
+  visiblename: beets
+  version: 2.3.1
+  origversion: null
+  status: outdated
+  summary: Music tagger and library organizer
+  maintainers:
+    - aszlig@nix.build
+    - me@doronbehar.com
+    - meurerbernardo@gmail.com
+    - chris@cdom.io
+    - pjones@devalot.com
+  licenses:
+    - MIT
 - repo: gentoo
   srcname: media-sound/beets
   visiblename: media-sound/beets
@@ -1131,6 +1148,20 @@
     - MIT
   categories:
     - media-sound
+- repo: nix_stable_25_11
+  srcname: beets
+  visiblename: beets
+  version: 2.5.1
+  origversion: null
+  status: outdated
+  summary: Music tagger and library organizer
+  maintainers:
+    - chmont@protonmail.com
+    - me@doronbehar.com
+    - meurerbernardo@gmail.com
+    - pjones@devalot.com
+  licenses:
+    - MIT
 - repo: liguros_develop
   srcname: media-sound/beets
   visiblename: media-sound/beets
@@ -1325,35 +1356,6 @@
     - pjones@devalot.com
   licenses:
     - MIT
-- repo: nix_stable_25_05
-  srcname: beets-unstable
-  visiblename: beets
-  version: 2.3.1
-  origversion: null
-  status: outdated
-  summary: Music tagger and library organizer
-  maintainers:
-    - aszlig@nix.build
-    - me@doronbehar.com
-    - meurerbernardo@gmail.com
-    - chris@cdom.io
-    - pjones@devalot.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: beets
-  visiblename: beets
-  version: 2.5.1
-  origversion: null
-  status: outdated
-  summary: Music tagger and library organizer
-  maintainers:
-    - chmont@protonmail.com
-    - me@doronbehar.com
-    - meurerbernardo@gmail.com
-    - pjones@devalot.com
-  licenses:
-    - MIT
 - repo: nix_stable_25_11
   srcname: beets-minimal
   visiblename: beets
@@ -1536,22 +1538,6 @@
   categories:
     - sound
 - repo: parrot
-  subrepo: parrot-updates/main
-  srcname: beets
-  binnames:
-    - beets
-    - beets-doc
-  visiblename: beets
-  version: 2.2.0
-  origversion: 2.2.0-3+deb13u1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - rak@debian.org
-    - stefanor@debian.org
-  categories:
-    - sound
-- repo: parrot
   subrepo: parrot/main
   srcname: beets
   binnames:
@@ -1567,18 +1553,18 @@
     - stefanor@debian.org
   categories:
     - sound
-- repo: pureos_amber
-  subrepo: amber/main
+- repo: parrot
+  subrepo: parrot-updates/main
   srcname: beets
   binnames:
     - beets
     - beets-doc
   visiblename: beets
-  version: 1.4.7
-  origversion: 1.4.7-2
+  version: 2.2.0
+  origversion: 2.2.0-3+deb13u1
   status: outdated
   maintainers:
-    - python-apps-team@lists.alioth.debian.org
+    - team+python@tracker.debian.org
     - rak@debian.org
     - stefanor@debian.org
   categories:
