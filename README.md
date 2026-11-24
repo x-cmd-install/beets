@@ -24,16 +24,6 @@ Total: **106,222** lines of code across **449** files in the top 5 languages.
 | Json | 7,825 | 0 | 0 | 10 |
 | Yaml | 1,049 | 25 | 27 | 4 |
 
-## OpenSSF Scorecard
-
-Overall score: **5.5 / 10**
-
-Lowest-scoring checks:
-
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## Source
 
 - **Upstream**: <https://github.com/beetbox/beets>
@@ -48,22 +38,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,971 · **Forks**: 2,208 · **Open issues**: 3,256 · **Contributors**: 643
+- **Stars**: 15,975 · **Forks**: 2,209 · **Open issues**: 3,257 · **Contributors**: 642
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2175 · **Open PRs**: 82 · **Closed issues**: 2660 · **Open issues**: 596 · **Commits**: 15736
+- **Releases**: 55 · **Merged PRs**: 2173 · **Open PRs**: 81 · **Closed issues**: 2660 · **Open issues**: 597 · **Commits**: 15736
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 26 | 32 | 5 | 8 | 134 |
-| last60d | 2026-09-24 | 0 | 52 | 38 | 11 | 11 | 258 |
-| 90d | 2026-08-25 | 2 | 88 | 46 | 28 | 27 | 454 |
-| last180d | 2026-05-27 | 5 | 225 | 63 | 64 | 45 | 1104 |
-| 360d | 2025-11-28 | 14 | 422 | 71 | 170 | 81 | 2317 |
-| last720d | 2024-12-03 | 19 | 602 | 81 | 285 | 157 | 3610 |
+| 30d | 2026-10-25 | 0 | 25 | 32 | 5 | 9 | 134 |
+| last60d | 2026-09-25 | 0 | 51 | 38 | 11 | 12 | 258 |
+| 90d | 2026-08-26 | 2 | 86 | 45 | 28 | 28 | 454 |
+| last180d | 2026-05-28 | 5 | 223 | 62 | 64 | 46 | 1104 |
+| 360d | 2025-11-29 | 14 | 420 | 70 | 170 | 82 | 2317 |
+| last720d | 2024-12-04 | 19 | 600 | 80 | 285 | 157 | 3610 |
 
 ## Release assets
 
@@ -100,4 +90,4 @@ Install metadata for beets lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:34:59Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:53:36Z._
