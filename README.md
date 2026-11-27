@@ -38,7 +38,7 @@ Total: **106,241** lines of code across **449** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 15,983 · **Forks**: 2,212 · **Open issues**: 3,257 · **Contributors**: 643
+- **Stars**: 15,985 · **Forks**: 2,212 · **Open issues**: 3,257 · **Contributors**: 643
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **106,241** lines of code across **449** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 26 | 35 | 6 | 7 | 141 |
-| last60d | 2026-09-27 | 0 | 52 | 43 | 11 | 11 | 265 |
-| 90d | 2026-08-28 | 2 | 85 | 50 | 26 | 26 | 459 |
-| last180d | 2026-05-30 | 5 | 218 | 66 | 62 | 42 | 1109 |
-| 360d | 2025-12-01 | 14 | 420 | 75 | 171 | 81 | 2322 |
-| last720d | 2024-12-06 | 19 | 601 | 85 | 284 | 155 | 3614 |
+| 30d | 2026-10-28 | 0 | 25 | 34 | 5 | 7 | 141 |
+| last60d | 2026-09-28 | 0 | 52 | 43 | 11 | 11 | 265 |
+| 90d | 2026-08-29 | 2 | 85 | 50 | 25 | 25 | 459 |
+| last180d | 2026-05-31 | 5 | 216 | 66 | 61 | 42 | 1109 |
+| 360d | 2025-12-02 | 14 | 420 | 75 | 171 | 81 | 2322 |
+| last720d | 2024-12-07 | 19 | 599 | 85 | 284 | 155 | 3614 |
 
 ## Release assets
 
@@ -61,6 +61,25 @@ Total: **106,241** lines of code across **449** files in the top 5 languages.
 |-------|-----:|--------|
 | [beets-2.14.1-py3-none-any.whl](https://github.com/beetbox/beets/releases/download/v2.14.1/beets-2.14.1-py3-none-any.whl) | 635.7 KiB | `other` |
 | [beets-2.14.1.tar.gz](https://github.com/beetbox/beets/releases/download/v2.14.1/beets-2.14.1.tar.gz) | 2.4 MiB | `native/unknown` |
+
+## Distribution status
+
+Reported by **133** distros on [repology.org](https://repology.org/project/beets). **36** are ✅ on the latest upstream release, **76** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.14.1` | ✅ latest |
+| Debian 14 | `2.14.1` | ✅ latest |
+| Debian 13 | `2.2.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.5.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.6.0` | ⚠️ outdated |
+| Arch | `2.14.1` | ✅ latest |
+| Homebrew | `2.14.1` | ✅ latest |
+| Fedora rawhide | `2.14.1` | ✅ latest |
+| Nix unstable | `2.14.1` | ✅ latest |
+| Void | `2.14.1` | ✅ latest |
+| Alpine edge | `2.14.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.14.1` | ✅ latest |
 
 ## Improve this data
 
@@ -71,4 +90,4 @@ Install metadata for beets lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:12:31Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:13:04Z._
