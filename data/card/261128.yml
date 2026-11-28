@@ -1,0 +1,174 @@
+about:
+  description: "music library manager and MusicBrainz tagger"
+  license: MIT
+  homepage: http://beets.io/
+  head: 61ae14e
+  archived: false
+  latestVersion: "v2.14.1"
+  latestRelease: "v2.14.1"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T07:56:53Z
+timeline:
+  created: 2010-08-09
+  lastCommit: 2026-11-27
+  lastVersion: 2026-09-17
+  lastRelease: 2026-09-17
+  lastPrerelease: 
+popularity:
+  star: 15994
+  watcher: 375
+  fork: 2213
+  release: 55
+  contributor: 647
+  pullRequest: 2947
+  issue: 3257
+language:
+  Python: 3005388
+  JavaScript: 86960
+  Shell: 7613
+  HTML: 3833
+  CSS: 2951
+totalBytes: 3106745
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 0
+    mergedPR: 25
+    openPR: 34
+    closedIssue: 5
+    openIssue: 6
+    commit: 159
+  last60d:
+    since: 2026-09-29
+    release: 0
+    mergedPR: 55
+    openPR: 44
+    closedIssue: 11
+    openIssue: 11
+    commit: 284
+  last90d:
+    since: 2026-08-30
+    release: 2
+    mergedPR: 88
+    openPR: 50
+    closedIssue: 25
+    openIssue: 24
+    commit: 480
+  last180d:
+    since: 2026-06-01
+    release: 5
+    mergedPR: 218
+    openPR: 65
+    closedIssue: 62
+    openIssue: 41
+    commit: 1132
+  last360d:
+    since: 2025-12-03
+    release: 14
+    mergedPR: 423
+    openPR: 75
+    closedIssue: 172
+    openIssue: 80
+    commit: 2345
+  last720d:
+    since: 2024-12-08
+    release: 19
+    mergedPR: 603
+    openPR: 85
+    closedIssue: 285
+    openIssue: 154
+    commit: 3634
+total:
+  release: 55
+  mergedPR: 2179
+  openPR: 86
+  closedIssue: 2662
+  openIssue: 595
+  commit: 15765
+---
+path: /home/runner/.x-repo/github.com/beetbox/beets
+collectedAt: 2026-11-28T07:57:01Z
+loc:
+  Python:
+    code: 71246
+    comments: 3729
+    blanks: 14180
+    files: 306
+  ReStructuredText:
+    code: 16762
+    comments: 0
+    blanks: 4923
+    files: 125
+  JavaScript:
+    code: 8147
+    comments: 1766
+    blanks: 1831
+    files: 4
+  Json:
+    code: 7825
+    comments: 0
+    blanks: 0
+    files: 10
+  Yaml:
+    code: 1049
+    comments: 25
+    blanks: 27
+    files: 4
+  Xml:
+    code: 334
+    comments: 0
+    blanks: 0
+    files: 2
+  Toml:
+    code: 319
+    comments: 14
+    blanks: 37
+    files: 1
+  Sh:
+    code: 236
+    comments: 54
+    blanks: 61
+    files: 2
+  Css:
+    code: 145
+    comments: 9
+    blanks: 18
+    files: 2
+  Makefile:
+    code: 109
+    comments: 5
+    blanks: 22
+    files: 1
+  ForgeConfig:
+    code: 55
+    comments: 10
+    blanks: 10
+    files: 1
+  Html:
+    code: 47
+    comments: 1
+    blanks: 0
+    files: 1
+  Bitbake:
+    code: 6
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 19
+    blanks: 17
+    files: 2
+  Text:
+    code: 0
+    comments: 5957
+    blanks: 814
+    files: 9
+total:
+  code: 106325
+  comments: 11589
+  blanks: 21944
+  files: 471
+---
+
+---
