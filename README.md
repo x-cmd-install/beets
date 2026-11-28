@@ -14,12 +14,12 @@ x install beets
 
 ## Code insight
 
-Total: **106,241** lines of code across **449** files in the top 5 languages.
+Total: **106,280** lines of code across **449** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 71,214 | 3,725 | 14,159 | 306 |
-| ReStructuredText | 16,755 | 0 | 4,922 | 125 |
+| Python | 71,246 | 3,729 | 14,180 | 306 |
+| ReStructuredText | 16,762 | 0 | 4,923 | 125 |
 | JavaScript | 8,147 | 1,766 | 1,831 | 4 |
 | Json | 7,825 | 0 | 0 | 10 |
 | Yaml | 1,049 | 25 | 27 | 4 |
@@ -33,27 +33,27 @@ Total: **106,241** lines of code across **449** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.14.1` (2026-09-17)
-- **Last commit**: 2026-11-26
+- **Last commit**: 2026-11-27
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 15,985 · **Forks**: 2,212 · **Open issues**: 3,257 · **Contributors**: 643
+- **Stars**: 15,994 · **Forks**: 2,213 · **Open issues**: 3,257 · **Contributors**: 647
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2175 · **Open PRs**: 86 · **Closed issues**: 2661 · **Open issues**: 596 · **Commits**: 15743
+- **Releases**: 55 · **Merged PRs**: 2179 · **Open PRs**: 86 · **Closed issues**: 2662 · **Open issues**: 595 · **Commits**: 15765
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 25 | 34 | 5 | 7 | 141 |
-| last60d | 2026-09-28 | 0 | 52 | 43 | 11 | 11 | 265 |
-| 90d | 2026-08-29 | 2 | 85 | 50 | 25 | 25 | 459 |
-| last180d | 2026-05-31 | 5 | 216 | 66 | 61 | 42 | 1109 |
-| 360d | 2025-12-02 | 14 | 420 | 75 | 171 | 81 | 2322 |
-| last720d | 2024-12-07 | 19 | 599 | 85 | 284 | 155 | 3614 |
+| 30d | 2026-10-29 | 0 | 25 | 34 | 5 | 6 | 159 |
+| last60d | 2026-09-29 | 0 | 55 | 44 | 11 | 11 | 284 |
+| 90d | 2026-08-30 | 2 | 88 | 50 | 25 | 24 | 480 |
+| last180d | 2026-06-01 | 5 | 218 | 65 | 62 | 41 | 1132 |
+| 360d | 2025-12-03 | 14 | 423 | 75 | 172 | 80 | 2345 |
+| last720d | 2024-12-08 | 19 | 603 | 85 | 285 | 154 | 3634 |
 
 ## Release assets
 
@@ -61,25 +61,6 @@ Total: **106,241** lines of code across **449** files in the top 5 languages.
 |-------|-----:|--------|
 | [beets-2.14.1-py3-none-any.whl](https://github.com/beetbox/beets/releases/download/v2.14.1/beets-2.14.1-py3-none-any.whl) | 635.7 KiB | `other` |
 | [beets-2.14.1.tar.gz](https://github.com/beetbox/beets/releases/download/v2.14.1/beets-2.14.1.tar.gz) | 2.4 MiB | `native/unknown` |
-
-## Distribution status
-
-Reported by **133** distros on [repology.org](https://repology.org/project/beets). **36** are ✅ on the latest upstream release, **76** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.14.1` | ✅ latest |
-| Debian 14 | `2.14.1` | ✅ latest |
-| Debian 13 | `2.2.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.5.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.6.0` | ⚠️ outdated |
-| Arch | `2.14.1` | ✅ latest |
-| Homebrew | `2.14.1` | ✅ latest |
-| Fedora rawhide | `2.14.1` | ✅ latest |
-| Nix unstable | `2.14.1` | ✅ latest |
-| Void | `2.14.1` | ✅ latest |
-| Alpine edge | `2.14.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.14.1` | ✅ latest |
 
 ## Improve this data
 
@@ -90,4 +71,4 @@ Install metadata for beets lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:13:04Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:57:23Z._
